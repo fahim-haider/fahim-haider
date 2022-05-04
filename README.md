@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fahim-haider
 - 👀 I’m interested in machine learning and embedded systems
-- 🌱 I’m currently learning embedded C and C++
+- 🌱 I’m currently learning C++ and Embedded C
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 You can reach me by sending a DM!
 
