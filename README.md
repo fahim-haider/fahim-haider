@@ -2,7 +2,6 @@
 - 👀 I’m interested in machine learning and embedded systems
 - 🌱 I’m currently learning C++ and Embedded C
 - 💞️ I’m looking to collaborate on machine learning projects
-- 📫 You can reach me by sending a DM!
 
 <!---
 fahim-haider/fahim-haider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
