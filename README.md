@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fahim-haider
 - 👀 I’m interested in machine learning and embedded systems
-- 🌱 I’m currently learning C++ and Embedded C
+- 🌱 I’m currently learning C++ and FreeRTOS to learn more about embedded software development!
 
 <!---
 fahim-haider/fahim-haider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
